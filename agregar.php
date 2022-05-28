@@ -138,6 +138,7 @@ elseif($tbl=='mesas2'){
     $pagina="mesasdisponibles.php";
 	
 }
+//
 elseif($tbl=='reservas'){
 	
     $db->query("INSERT INTO tbl_reservas(
