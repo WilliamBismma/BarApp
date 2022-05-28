@@ -1,0 +1,90 @@
+[23-May-2022 10:56:59 America/Bogota] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 1
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Undefined index: id in /home/bismmaso/bar.bismmasoft.com/header.php on line 6
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[23-May-2022 10:56:59 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[23-May-2022 10:56:59 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Undefined property: MySQL::$total_consultas in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 16
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[23-May-2022 10:56:59 America/Bogota] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 1
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Undefined index: id in /home/bismmaso/bar.bismmasoft.com/header.php on line 6
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[23-May-2022 10:56:59 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[23-May-2022 10:56:59 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Undefined property: MySQL::$total_consultas in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 16
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[23-May-2022 10:56:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[23-May-2022 10:57:00 America/Bogota] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 1
+[23-May-2022 10:57:00 America/Bogota] PHP Notice:  Undefined index: id in /home/bismmaso/bar.bismmasoft.com/login.php on line 9
+[24-May-2022 17:04:51 America/Bogota] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 1
+[24-May-2022 17:04:51 America/Bogota] PHP Notice:  Undefined index: id in /home/bismmaso/bar.bismmasoft.com/header.php on line 6
+[24-May-2022 17:04:51 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[24-May-2022 17:04:51 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[24-May-2022 17:04:51 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[24-May-2022 17:04:51 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:04:51 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[24-May-2022 17:04:51 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:04:51 America/Bogota] PHP Notice:  Undefined property: MySQL::$total_consultas in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 16
+[24-May-2022 17:04:51 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:04:51 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:04:51 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:04:52 America/Bogota] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 1
+[24-May-2022 17:04:52 America/Bogota] PHP Notice:  Undefined index: id in /home/bismmaso/bar.bismmasoft.com/header.php on line 6
+[24-May-2022 17:04:52 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[24-May-2022 17:04:52 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[24-May-2022 17:04:52 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[24-May-2022 17:04:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:04:52 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[24-May-2022 17:04:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:04:52 America/Bogota] PHP Notice:  Undefined property: MySQL::$total_consultas in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 16
+[24-May-2022 17:04:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:04:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:04:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:04:53 America/Bogota] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 1
+[24-May-2022 17:04:53 America/Bogota] PHP Notice:  Undefined index: id in /home/bismmaso/bar.bismmasoft.com/login.php on line 9
+[24-May-2022 17:35:23 America/Bogota] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 1
+[24-May-2022 17:35:23 America/Bogota] PHP Notice:  Undefined index: id in /home/bismmaso/bar.bismmasoft.com/header.php on line 6
+[24-May-2022 17:35:23 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[24-May-2022 17:35:23 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[24-May-2022 17:35:23 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[24-May-2022 17:35:23 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:35:23 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[24-May-2022 17:35:23 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:35:23 America/Bogota] PHP Notice:  Undefined property: MySQL::$total_consultas in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 16
+[24-May-2022 17:35:23 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:35:23 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[24-May-2022 17:35:23 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:46 America/Bogota] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 1
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Undefined index: id in /home/bismmaso/bar.bismmasoft.com/header.php on line 6
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[27-May-2022 15:22:46 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:46 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Undefined property: MySQL::$total_consultas in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 16
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:46 America/Bogota] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 1
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Undefined index: id in /home/bismmaso/bar.bismmasoft.com/header.php on line 6
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Undefined index: val in /home/bismmaso/bar.bismmasoft.com/header.php on line 9
+[27-May-2022 15:22:46 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:46 America/Bogota] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 35
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Undefined property: MySQL::$total_consultas in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 16
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 36
+[27-May-2022 15:22:47 America/Bogota] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; MySQL has a deprecated constructor in /home/bismmaso/bar.bismmasoft.com/lib/conex.php on line 1
+[27-May-2022 15:22:47 America/Bogota] PHP Notice:  Undefined index: id in /home/bismmaso/bar.bismmasoft.com/login.php on line 9

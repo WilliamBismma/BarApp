@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="assemble.js" server="bismmasoft.com//" local="132982269036579913" remote="131616756000000000" Dst="0" />
+<file name="browserSync.js" server="bismmasoft.com//" local="132982269038850267" remote="131616756000000000" Dst="0" />
+<file name="concat.js" server="bismmasoft.com//" local="132982269041076122" remote="131616756000000000" Dst="0" />
+<file name="clean.js" server="bismmasoft.com//" local="132982269041594557" remote="131616756000000000" Dst="0" />
+<file name="connect.js" server="bismmasoft.com//" local="132982269042932428" remote="131616756000000000" Dst="0" />
+<file name="copy.js" server="bismmasoft.com//" local="132982269045437718" remote="131616756000000000" Dst="0" />
+<file name="htmlmin.js" server="bismmasoft.com//" local="132982269045668187" remote="131616756000000000" Dst="0" />
+<file name="jshint.js" server="bismmasoft.com//" local="132982269047459401" remote="131616756000000000" Dst="0" />
+<file name="less.js" server="bismmasoft.com//" local="132982269049645864" remote="131616756000000000" Dst="0" />
+<file name="modernizr.js" server="bismmasoft.com//" local="132982269050736602" remote="131616756000000000" Dst="0" />
+<file name="uglify.js" server="bismmasoft.com//" local="132982269051733975" remote="131616756000000000" Dst="0" />
+<file name="watch.js" server="bismmasoft.com//" local="132982269056014173" remote="131616756000000000" Dst="0" />
+<file name="usebanner.js" server="bismmasoft.com//" local="132982269056113474" remote="131616756000000000" Dst="0" />
+<file name="wiredep.js" server="bismmasoft.com//" local="132982269057190470" remote="131616756000000000" Dst="0" />
+</dwsync>
